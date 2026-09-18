@@ -1,0 +1,7 @@
+name = "ai-images-serve"
+main = "src/index.js"
+compatibility_date = "2025-05-01"
+
+[[r2_buckets]]
+binding = "IMAGES"
+bucket_name = "ai-images"
